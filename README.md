@@ -1,3 +1,34 @@
+![Design preview for the To List App](todo.png)
+
+*This challenge was done with basic understanding of HTML,CSS and REACTJS.**
+
+Users should be able to:
+
+- View the optimal layout for the site depending on their device's screen size
+
+- Add Todo, Edit existing todos, Delete todos
+
+- See hover states for all interactive elements on the page
+
+
+Styles Used
+
+Font- Family : Raleway Linked from Google Fonts
+
+Head Board Color rgb(26, 188, 158)
+
+The app is hosted live on Github as:
+
+https://uny1me.github.io/todoapp/
+
+And on heroku as
+
+https://todoapptask1.herokuapp.com/
+
+
+A simple way to host Locally would be to download the repository and in your CLI run `npm install` and after that run `npm start`
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
